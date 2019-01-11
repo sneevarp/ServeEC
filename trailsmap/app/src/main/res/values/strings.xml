@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">trailsmap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_pick_up">PickUp</string>
+    <string name="adView">ca-app-pub-6143893780816581/5253126992</string>
+</resources>
